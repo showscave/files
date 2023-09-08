@@ -27,7 +27,7 @@
   ],
   "theme_color": "#4332c2",
   "background_color": "#4332c2",
-  "start_url": "/",
+  "start_url": "https://www.showscave.com",
   "id": "showscave-webapp",
   "scope": "/",
   "display": "standalone",
