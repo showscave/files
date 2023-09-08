@@ -1,0 +1,62 @@
+{
+  "name": "ShowsCave",
+  "short_name": "ShowsCave",
+  "icons": [
+    {
+      "src": "https://cdn.statically.io/gh/showscave/files/main/sc-round-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.statically.io/gh/showscave/files/main/sc-round-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "purpose": "maskable",
+      "src": "https://cdn.statically.io/gh/showscave/files/main/sc-maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "purpose": "maskable",
+      "src": "https://cdn.statically.io/gh/showscave/files/main/sc-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#4332c2",
+  "background_color": "#4332c2",
+  "start_url": "https://www.showscave.com",
+  "id": "/",
+  "scope": "/",
+  "display": "standalone",
+  "description": "Explore Songs Lyrics at ShowsCave - your ultimate destination for Lyrics of Hindi, English, Punjabi songs & more.",
+  "lang": "en",
+  "shortcuts": [
+    {
+      "name": "New Songs",
+      "url": "https://www.showscave.com/search",
+      "icons": [
+        {
+          "src": "https://cdn.statically.io/gh/showscave/files/main/sc-added-96.png"
+        }
+      ],
+      "description": "Explore newly added songs lyrics"
+    },
+    {
+      "name": "Saved Songs",
+      "url": "https://www.showscave.com/p/bookmark.html",
+      "icons": [
+        {
+          "src": "https://cdn.statically.io/gh/showscave/files/main/sc-saved-96.png"
+        }
+      ],
+      "description": "Explore all your saved lyrics"
+    }
+  ],
+  "categories": [
+    "entertainment",
+    "music"
+  ]
+}
